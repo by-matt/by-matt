@@ -155,13 +155,6 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
   ![Code Portfolio](https://img.shields.io/badge/Code_Portfolio-Python_%7C_SQL_%7C_BI-success?style=for-the-badge&logo=python)
   ![GitHub Status](https://img.shields.io/badge/GitHub_Status-Active_Developer-purple?style=for-the-badge&logo=github)
 
-  <br/><br/>
-
-  <a href="https://github.com/by-matt">
-    <img src="https://github-readme-stats.vercel.app/api?username=by-matt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-matt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-
 </div>
 
 ---
