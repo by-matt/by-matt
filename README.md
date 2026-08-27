@@ -61,7 +61,7 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
 
 | Repository | Scope & Specialization | Key Deliverables & Tech Stack |
 | :--- | :--- | :--- |
-| 📊 [**analisis-de-datos-python-sql**](https://github.com/by-matt/analisis-de-datos-python-sql) | **Data Science & Analytics Portfolio** | Desafíos resueltos en Python (Pandas/NumPy), Inferencia Estadística, EDA, Consultas SQL Relacionales y BI. |
+| 📊 [**analisis-de-datos-python-sql**](https://github.com/by-matt/analisis-de-datos-python-sql) | **Data Science & SQL Portfolio** | Desafíos resueltos en Python (Pandas/NumPy), Inferencia Estadística, EDA, Consultas SQL Relacionales y BI. |
 | 🌊 [**web-aquabiotics**](https://github.com/by-matt/web-aquabiotics) | **Deep-Tech & Circular Bioeconomy** | Plataforma técnica y comercial de AquaBiotics Sur (CORFO Residencia Deep Build & Volcanes). |
 
 ---
@@ -149,8 +149,19 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
 ## 📈 GitHub Metrics & Activity Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=by-matt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-matt&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+  ![GitHub Followers](https://img.shields.io/github/followers/by-matt?style=for-the-badge&logo=github&label=Followers&color=4B0082)
+  ![Public Repos](https://img.shields.io/badge/Public_Repositories-3_Active-blue?style=for-the-badge&logo=github)
+  ![Code Portfolio](https://img.shields.io/badge/Code_Portfolio-Python_%7C_SQL_%7C_BI-success?style=for-the-badge&logo=python)
+  ![GitHub Status](https://img.shields.io/badge/GitHub_Status-Active_Developer-purple?style=for-the-badge&logo=github)
+
+  <br/><br/>
+
+  <a href="https://github.com/by-matt">
+    <img src="https://github-readme-stats.vercel.app/api?username=by-matt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-matt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+
 </div>
 
 ---
