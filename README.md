@@ -36,7 +36,10 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude_LLMs-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -61,6 +64,7 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
 
 | Repository | Scope & Specialization | Key Deliverables & Tech Stack |
 | :--- | :--- | :--- |
+| 🧪 [**bioprocess-optimizer-ml**](https://github.com/by-matt/bioprocess-optimizer-ml) | **Applied AI / Industrial Bioprocess Optimization** | [![CI](https://github.com/by-matt/bioprocess-optimizer-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/by-matt/bioprocess-optimizer-ml/actions) ![Python](https://img.shields.io/badge/Python-3.11_%7C_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-SLSQP-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)<br>Optimizador no lineal de formulaciones en biorreactores industriales. Modelo sustituto polinomial regularizado ($C^2$ continuo) acoplado a SciPy SLSQP con balance de masa estricto ($\sum w_i = 1$) y explicabilidad local SHAP. |
 | 📊 [**analisis-de-datos-python-sql**](https://github.com/by-matt/analisis-de-datos-python-sql) | **Data Science & SQL Portfolio** | Desafíos resueltos en Python (Pandas/NumPy), Inferencia Estadística, EDA, Consultas SQL Relacionales y BI. |
 | 🌊 [**web-aquabiotics**](https://github.com/by-matt/web-aquabiotics) | **Deep-Tech & Circular Bioeconomy** | Plataforma técnica y comercial de AquaBiotics Sur (CORFO Residencia Deep Build & Volcanes). |
 
@@ -151,8 +155,8 @@ Fundador y CEO de <b>AquaBiotics Sur</b>, startup deep-tech de bioeconomía sele
 <div align="center">
 
   ![GitHub Followers](https://img.shields.io/github/followers/by-matt?style=for-the-badge&logo=github&label=Followers&color=4B0082)
-  ![Public Repos](https://img.shields.io/badge/Public_Repositories-3_Active-blue?style=for-the-badge&logo=github)
-  ![Code Portfolio](https://img.shields.io/badge/Code_Portfolio-Python_%7C_SQL_%7C_BI-success?style=for-the-badge&logo=python)
+  ![Public Repos](https://img.shields.io/badge/Applied_AI_Portfolio-Active-blue?style=for-the-badge&logo=github)
+  ![Code Portfolio](https://img.shields.io/badge/Code_Portfolio-Python_%7C_ML_%7C_Optimization-success?style=for-the-badge&logo=python)
   ![GitHub Status](https://img.shields.io/badge/GitHub_Status-Active_Developer-purple?style=for-the-badge&logo=github)
 
 </div>
